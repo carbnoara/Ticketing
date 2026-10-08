@@ -39,3 +39,19 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# AI tooling
+.agents/
+.claude/
+.cursor/
+.devin/
+
+# Scratch & test scripts
+fix_*.js
+test_*.ts
+test_*.js
+
+# Local SQLite databases
+*.db
+*.db-journal
+*.sqlite
