@@ -45,6 +45,8 @@ next-env.d.ts
 .claude/
 .cursor/
 .devin/
+AGENTS.md
+CLAUDE.md
 
 # Scratch & test scripts
 fix_*.js
